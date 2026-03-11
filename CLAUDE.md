@@ -28,3 +28,16 @@ Import with full path: `@/components/component-name/component-name`
 - TypeScript everywhere — no plain `.js` files
 - Use `"use client"` only when necessary (interactivity, hooks, browser APIs)
 - Prefer server components by default
+
+## Code Style
+- Always use braces `{}` on `if` statements, even for one-liners:
+  ```ts
+  // ✅ correct
+  if (!ctx) {
+    throw new Error("...");
+  }
+
+  // ❌ wrong
+  if (!ctx) throw new Error("...");
+  ```
+- Enforced via ESLint rule `curly: ["error", "all"]`
