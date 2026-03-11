@@ -7,10 +7,10 @@
 
 ## 2. Theme (Dark / Light Mode)
 
-- [ ] 2.1 Create a `ThemeProvider` component that reads `localStorage` and `prefers-color-scheme`
-- [ ] 2.2 Inject an inline script in `<head>` to apply the theme class before hydration (no flash)
-- [ ] 2.3 Add a theme toggle button to the header
-- [ ] 2.4 Persist theme selection to `localStorage` on toggle
+- [x] 2.1 Create a `ThemeProvider` component that reads `localStorage` and `prefers-color-scheme`
+- [x] 2.2 Inject an inline script in `<head>` to apply the theme class before hydration (no flash)
+- [x] 2.3 Add a theme toggle button to the header
+- [x] 2.4 Persist theme selection to `localStorage` on toggle
 
 ## 3. Internationalization (EN / PT-BR)
 
