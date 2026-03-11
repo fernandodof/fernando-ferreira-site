@@ -25,6 +25,7 @@
 - [x] 4.1 Create root layout (`app/layout.tsx`) wrapping all pages with `ThemeProvider` and `LanguageProvider`
 - [x] 4.2 Build the `Header` component with site name/logo, navigation links, theme toggle, and language switcher
 - [x] 4.3 Apply consistent padding, max-width, and dark/light color tokens across the layout
+- [x] 4.4 Widen desktop layout and ensure responsive padding on mobile
 
 ## 5. Homepage
 

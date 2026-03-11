@@ -10,7 +10,7 @@ export function Header() {
 
   return (
     <header className="border-b border-border bg-background">
-      <div className="mx-auto max-w-3xl px-4 sm:px-6 h-14 flex items-center justify-between">
+      <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 h-14 flex items-center justify-between">
         <nav className="flex items-center gap-6">
           <Link
             href="/"
