@@ -70,7 +70,7 @@ export const resumeEntries: ResumeEntry[] = [
       "pt-BR": [
         "Desenvolveu e melhorou aplicações Angular de alto desempenho para uma plataforma global de apostas esportivas, com experiências fluidas em milhões de dispositivos.",
         "Contribuiu para funcionalidades de UI com WebSockets, garantindo qualidade de código para melhorar o engajamento e a responsividade do sistema.",
-        "Liderou a criação de uma nova aplicação web desktop do zero e supervisionou a migração para uma arquitetura de renderização no servidor.",
+        "Participou da criação de uma nova aplicação web desktop do zero e ajudou na migração para uma arquitetura de renderização no servidor.",
       ],
     },
   },
@@ -111,7 +111,7 @@ export const resumeEntries: ResumeEntry[] = [
     },
   },
 
-  // ── Education ─────────────────────────────────────────────────────────────
+  // ── Education
   {
     type: "education",
     title: {

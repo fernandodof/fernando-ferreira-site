@@ -2,7 +2,7 @@
 
 import { Briefcase, GraduationCap } from "lucide-react";
 import { useLanguage } from "@/components/language-provider/language-provider";
-import type { ResumeEntry, Locale } from "@/lib/resume";
+import type { ResumeEntry } from "@/lib/resume";
 
 interface TimelineProps {
   entries: ResumeEntry[];
@@ -26,7 +26,7 @@ function DateRange({ startDate, endDate, presentLabel }: {
 
 export function Timeline({ entries }: TimelineProps) {
   const { locale, t } = useLanguage();
-  const lang = locale as Locale;
+  const lang = locale;
 
   return (
     <ol className="relative border-l border-border ml-3">
