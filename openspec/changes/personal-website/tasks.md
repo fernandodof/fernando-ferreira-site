@@ -29,9 +29,9 @@
 
 ## 5. Homepage
 
-- [ ] 5.1 Create the homepage (`app/page.tsx`) with developer name, title, and tagline
-- [ ] 5.2 Add translated strings for homepage content in both `en.json` and `pt-BR.json`
-- [ ] 5.3 Add a CTA or navigation link pointing to the resume page
+- [x] 5.1 Create the homepage (`app/page.tsx`) with developer name, title, and tagline
+- [x] 5.2 Add translated strings for homepage content in both `en.json` and `pt-BR.json`
+- [x] 5.3 Add a CTA or navigation link pointing to the resume page
 
 ## 6. Resume Timeline
 
