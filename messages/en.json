@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "resume": "Resume",
+    "home": "Home"
+  },
+  "theme": {
+    "toggle": "Toggle theme"
+  },
+  "language": {
+    "toggle": "PT-BR"
+  },
+  "home": {
+    "title": "Fernando Ferreira",
+    "tagline": "Software Developer",
+    "description": "Building reliable and maintainable software.",
+    "cta": "View Resume"
+  },
+  "resume": {
+    "title": "Resume",
+    "experience": "Experience",
+    "education": "Education"
+  }
+}

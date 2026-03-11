@@ -14,11 +14,11 @@
 
 ## 3. Internationalization (EN / PT-BR)
 
-- [ ] 3.1 Create translation files: `messages/en.json` and `messages/pt-BR.json`
-- [ ] 3.2 Implement a `LanguageProvider` using React context and `localStorage`
-- [ ] 3.3 Detect browser language on first visit and set default locale accordingly
-- [ ] 3.4 Add a language switcher button (EN / PT-BR) to the header
-- [ ] 3.5 Ensure language preference is restored on page reload
+- [x] 3.1 Create translation files: `messages/en.json` and `messages/pt-BR.json`
+- [x] 3.2 Implement a `LanguageProvider` using React context and `localStorage`
+- [x] 3.3 Detect browser language on first visit and set default locale accordingly
+- [x] 3.4 Add a language switcher button (EN / PT-BR) to the header
+- [x] 3.5 Ensure language preference is restored on page reload
 
 ## 4. Global Layout
 

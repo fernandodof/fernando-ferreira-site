@@ -1,0 +1,23 @@
+{
+  "nav": {
+    "resume": "Currículo",
+    "home": "Início"
+  },
+  "theme": {
+    "toggle": "Alternar tema"
+  },
+  "language": {
+    "toggle": "EN"
+  },
+  "home": {
+    "title": "Fernando Ferreira",
+    "tagline": "Desenvolvedor de Software",
+    "description": "Construindo software confiável e de fácil manutenção.",
+    "cta": "Ver Currículo"
+  },
+  "resume": {
+    "title": "Currículo",
+    "experience": "Experiência",
+    "education": "Formação"
+  }
+}
