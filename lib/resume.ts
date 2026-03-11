@@ -15,10 +15,28 @@ export const resumeEntries: ResumeEntry[] = [
   {
     type: "experience",
     title: { en: "Staff Frontend Engineer", "pt-BR": "Staff Frontend Engineer" },
+    organization: "Pipefy (Via Jaya Tech)",
+    location: "Cajazeiras, PB – Brazil",
+    startDate: "Jun 2025",
+    endDate: null,
+    description: {
+      en: [
+        "Collaborated on features to improve the user experience when creating AI agents to perform various tasks.",
+        "Developed reusable components to be used across different applications within the company.",
+      ],
+      "pt-BR": [
+        "Colaborou em funcionalidades para melhorar a experiência do usuário na criação de agentes de IA para realizar diversas tarefas.",
+        "Desenvolveu componentes reutilizáveis para uso em diferentes aplicações da empresa.",
+      ],
+    },
+  },
+  {
+    type: "experience",
+    title: { en: "Staff Frontend Engineer", "pt-BR": "Staff Frontend Engineer" },
     organization: "Every Health (Via Jaya Tech)",
     location: "Cajazeiras, PB – Brazil",
     startDate: "Dec 2020",
-    endDate: null,
+    endDate: "Jun 2025",
     description: {
       en: [
         "Architected and built React component libraries from scratch within an NX monorepo, establishing scalable infrastructure that accelerated front-end delivery and enabled code reuse across multiple projects.",
