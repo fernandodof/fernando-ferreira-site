@@ -35,12 +35,12 @@
 
 ## 6. Resume Timeline
 
-- [ ] 6.1 Create `lib/resume.ts` with typed data structures for experience and education entries
-- [ ] 6.2 Populate resume data with real content (jobs, education), including locale-aware description fields
-- [ ] 6.3 Build the `Timeline` component rendering entries as a vertical list (most recent first)
-- [ ] 6.4 Visually differentiate work experience vs. education entries (icon or label)
-- [ ] 6.5 Create the resume page (`app/resume/page.tsx`) using the `Timeline` component
-- [ ] 6.6 Add translated strings for resume section labels in both locale files
+- [x] 6.1 Create `lib/resume.ts` with typed data structures for experience and education entries
+- [x] 6.2 Populate resume data with real content (jobs, education), including locale-aware description fields
+- [x] 6.3 Build the `Timeline` component rendering entries as a vertical list (most recent first)
+- [x] 6.4 Visually differentiate work experience vs. education entries (icon or label)
+- [x] 6.5 Create the resume page (`app/resume/page.tsx`) using the `Timeline` component
+- [x] 6.6 Add translated strings for resume section labels in both locale files
 
 ## 7. Polish & Verification
 

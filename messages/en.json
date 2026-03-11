@@ -12,12 +12,13 @@
   "home": {
     "title": "Fernando Ferreira",
     "tagline": "Software Developer",
-    "description": "Fixing problems with code and learning new things along the way.s",
+    "description": "Fixing problems with code and learning new things along the way.",
     "cta": "View Resume"
   },
   "resume": {
     "title": "Resume",
     "experience": "Experience",
-    "education": "Education"
+    "education": "Education",
+    "present": "Present"
   }
 }

@@ -12,12 +12,13 @@
   "home": {
     "title": "Fernando Ferreira",
     "tagline": "Desenvolvedor de Software",
-    "description": "Resolvendo problemas com código e aprendendo coisas novas ao longo do caminho.s",
+    "description": "Resolvendo problemas com código e aprendendo coisas novas ao longo do caminho.",
     "cta": "Ver Currículo"
   },
   "resume": {
     "title": "Currículo",
     "experience": "Experiência",
-    "education": "Formação"
+    "education": "Formação",
+    "present": "Presente"
   }
 }
