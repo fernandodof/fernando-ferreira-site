@@ -44,8 +44,8 @@
 
 ## 7. Polish & Verification
 
-- [ ] 7.1 Verify dark/light mode works across all pages with no flash on load
-- [ ] 7.2 Verify language switching works seamlessly without URL changes
-- [ ] 7.3 Verify browser language detection sets the correct default on first visit
-- [ ] 7.4 Check responsive layout on mobile and desktop
-- [ ] 7.5 Run `npm run build` and confirm no errors
+- [x] 7.1 Verify dark/light mode works across all pages with no flash on load
+- [x] 7.2 Verify language switching works seamlessly without URL changes
+- [x] 7.3 Verify browser language detection sets the correct default on first visit
+- [x] 7.4 Check responsive layout on mobile and desktop
+- [x] 7.5 Run `npm run build` and confirm no errors
